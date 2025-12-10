@@ -116,7 +116,7 @@ Build an **interactive Excel dashboard** to:
 ![KPI Summary](https://github.com/Subham-Adhikari/UK-road-accident-analysis/blob/main/Dashboard%20%26%20KPIs/KPI_Summary.png)
 
 ### Full Dashboard  
-![Dashboard](https://github.com/Subham-Adhikari/UK-road-accident-analysis/blob/main/Images/Dashboard.png)
+![Dashboard](https://github.com/Subham-Adhikari/UK-road-accident-analysis/blob/main/Dashboard%20%26%20KPIs/Dashboard.png)
 
 
 ---
