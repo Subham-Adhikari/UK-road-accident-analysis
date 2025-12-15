@@ -3,6 +3,11 @@
 **Dataset:** 2020–2021  
 **Records Analyzed:** 300,000+ road accident records  
 
+
+## 🔖 Bookmarks
+- [📊 Dashboard](#-full-dashboard)
+- [📈 KPI Summary](#-kpis--dashboard-preview)
+
 ---
 
 ## ⭐ Problem Statement
