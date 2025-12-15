@@ -6,7 +6,7 @@
 
 ## 🔖 Bookmarks
 - [📊 Dashboard](#Full-Dashboard)
-- [📈 KPI Summary](#kpi-view)
+- [📈 KPI Summary](#KPI-View)
 
 ---
 
